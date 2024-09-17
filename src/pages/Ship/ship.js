@@ -184,8 +184,3 @@ handleSelect = address => {
 }
 
 export default App
-/*export default GoogleApiWrapper({
-  apiKey: ('AIzaSyBnLWo48tN34z1eTPLPJ0Ig4rO53QNMXzo')
-})(App)
-
-//For Google Api Wrapper */
